@@ -31,11 +31,11 @@
     "update_repos",
     "service_diagnostic",
     "service_discovery",
-    "service_detection_attacks_lan",
+    
     "service_process_messenger",
     "service_scan_lan",
-    "service_sniffer_devices",
+    
     "service_vulnerabilities_tcp",
-    "service_vulnerabilities_udp"
+    
   ]
 }

@@ -1,5 +1,7 @@
 {
   "insights": [
+    "web_cli",
+    "remote_ssh",
     "update_repos",
     "service_state",
     "service_status",
@@ -10,6 +12,8 @@
     "service_vulnerabilities_udp"
   ],
   "isolation": [
+    "web_cli",
+    "remote_ssh",
     "update_repos",
     "service_state",
     "service_status",

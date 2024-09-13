@@ -1,6 +1,5 @@
 {
   "insights": [
-    "web_cli",
     "update_repos",
     "service_state",
     "service_status",

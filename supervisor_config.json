@@ -8,6 +8,15 @@
     "service_vulnerabilities_tcp",
     "service_vulnerabilities_udp"
   ],
+    "vulnerabilities_plus": [
+    "update_repos",
+    "service_state",
+    "service_status",
+    "service_sniffer_devices",
+    "service_process_messenger",
+    "service_vulnerabilities_tcp",
+    "service_vulnerabilities_udp"
+  ],
   "isolation": [
     "update_repos",
     "service_state",

@@ -1,5 +1,5 @@
 {
-    "kore_run":false,
+    "kore_run":true,
     "kore_subscription_id":"guarddogsolutions-gyiuquapm",
     "kore_registry_id":"vfido-prod",
     "kore_mqtt_bridge_hostname":"gyiuquapm.mqtt.korewireless.com",
